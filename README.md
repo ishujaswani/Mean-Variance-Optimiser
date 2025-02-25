@@ -17,7 +17,7 @@ Ensure you have **Python 3.8+** installed along with the necessary libraries:
 
 ```sh
 pip install numpy pandas matplotlib scipy yfinance
-
+```
 ## 📂 File Structure
 
 📦 Portfolio-Optimization
@@ -30,9 +30,9 @@ pip install numpy pandas matplotlib scipy yfinance
 ```sh
 git clone https://github.com/your-username/portfolio-optimization.git
 cd portfolio-optimization
-
+```
 ## Run the Jupyter Notebook:
-
+```sh
 `jupyter notebook Optimising_portfolios_by_allocating_efficient_weights.ipynb`
 ```
 ## Analyze Results:
