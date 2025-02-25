@@ -52,12 +52,13 @@ cd portfolio-optimization
 
 ### 📈 Optimized Portfolio Weights
 
-**Ticker | Weight**  
-AAPL | 30%  
-MSFT | 25%  
-TSLA | 20%  
-AMZN | 15%  
-GOOG | 10%  
+| Ticker | Weight |
+|--------|--------|
+| AAPL   | 30%    |
+| MSFT   | 25%    |
+| TSLA   | 20%    |
+| AMZN   | 15%    |
+| GOOG   | 10%    |
 
 ---
 
