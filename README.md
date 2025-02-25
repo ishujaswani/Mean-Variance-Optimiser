@@ -18,12 +18,11 @@ Ensure you have **Python 3.8+** installed along with the necessary libraries:
 ```sh
 pip install numpy pandas matplotlib scipy yfinance
 
-# 📂 File Structure
+## 📂 File Structure
 
 📦 Portfolio-Optimization
  ├── 📜 Optimising_portfolios_by_allocating_efficient_weights.ipynb  # Main Notebook
  ├── 📊 README.md  # This file
- ├── 📈 portfolio_results.png  # Visualization output
 
 ## 📖 Usage
 
@@ -35,7 +34,7 @@ cd portfolio-optimization
 ## Run the Jupyter Notebook:
 
 `jupyter notebook Optimising_portfolios_by_allocating_efficient_weights.ipynb`
-
+```
 ## Analyze Results:
 
 ### ✅ Check the Efficient Frontier
