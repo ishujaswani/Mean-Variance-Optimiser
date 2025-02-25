@@ -19,11 +19,11 @@ Ensure you have **Python 3.8+** installed along with the necessary libraries:
 pip install numpy pandas matplotlib scipy yfinance
 ```
 ## 📂 File Structure
-
+```sh
 📦 Portfolio-Optimization
  ├── 📜 Optimising_portfolios_by_allocating_efficient_weights.ipynb  # Main Notebook
  ├── 📊 README.md  # This file
-
+```
 ## 📖 Usage
 
 ### Clone this repository:
